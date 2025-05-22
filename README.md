@@ -1,5 +1,6 @@
 # iptv-italia
-Prova gratis per 24 ore il miglior IPTV Italia: richiedila qui:
+Prova gratis per 24 ore il miglior IPTV Italia: <br>
+richiedila qui:
 https://wa.link/88ypjc
 
 Questa repository contiene tutti i link ai principali canali TV e Radio nazionali italiani in tre file m3u da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia. Intendo aggiornare i link non funzionanti o aggiungere nuovi canali se vedo commenti che lo chiedono ed è nelle mie capacità farlo legalmente.
