@@ -8,9 +8,6 @@ Come usarla
 Apri questo link e scarica la versione più recente delle playlist. Poi aprile con il tuo Media Player preferito (ad esempio PotPlayer o MyIPTV Player). - rewrite in native brief italian language 
 Alternativo: copia gli indirizzi nella tabella sotto e incollali nella finestra "Apri flusso di rete" o "Apri URL" del tuo player per avere sempre le playlist più aggiornate senza dover mai scaricare nuovi file. (iptvitaliaprovagratis.com contiene tutti i canali in <a href="https://www.iptvitaliaprovagratis.com/">IPTV Italia </a>, e inoltre include loghi e gruppi per i lettori più avanzati)
 
-iptvita.m3u https://github.com/jianfa985/IPTV-Italia/raw/main/iptvita.m3u<br>
-iptvitaplus.m3u https://github.com/jianfa985/IPTV-Italia/raw/main/iptvitaplus.m3u<br>
-ipradioita.m3u https://github.com/jianfa985/IPTV-Italia/raw/main/ipradioita.m3u<br><br>
 Cosa contiene
 Al momento i due file contengono i seguenti canali TV e radio:
 
