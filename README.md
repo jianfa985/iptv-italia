@@ -1,2 +1,3 @@
 # iptv-italia
-Raccolta di link a canali TV e radio italiani disponibili online tramite app: IPTV Smarters
+Prova gratis per 24 ore il miglior IPTV Italia: richiedila qui:
+https://wa.link/88ypjc
