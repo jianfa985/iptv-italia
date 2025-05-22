@@ -164,10 +164,15 @@ Radio Maria<br>
 Grandi assenti<br>
 Se riuscirò a trovare link ufficiali funzionanti, li aggiungerò il prima possibile!<br>
 
-Incredibilmente, nessuno (credo)<br><br>
-<b>Problemi noti</b><br>
-VLC e tutti i player basati su di esso (come Fermata Auto per Android) potrebbero avere problemi nel riprodurre i canali (si sconsiglia l'uso di VLC e surrogati in generale per la visione della IPTV Italia lista)<br>
-I numeri LCN dei canali regionali non sono accurati, perchè i canali regionali cambiano numero spesso anche tra provincia e provincia<br><br>
-<b>Segnala problemi e chiedi nuovi canali</b><br><br>
-Se un qualsiasi link a un canale TV o radio non funzionasse, basta segnalarmelo aprendo un'Issue da questo link (ricorda prima di controllare se qualcun altro ha già creato un'Issue con un problema simile o se il problema è già conosciuto guardando nella sezione "Problemi Noti" o nelle note delle release).<br>
-Inoltre, accetto richieste per nuovi canali TV o radio nazionali (soprattutto i "grandi assenti" di cui sopra), se li posso aggiungere da fonti ufficiali. Basta aprire un'Issue da questo link.<br>
+Si prega di notare che IPTV Smarters e XCIPTV sono stati rimossi dall'App Store e sono noti per riscontrare significativi problemi di riproduzione. Per un'esperienza ottimale, consigliamo vivamente di utilizzare l'app Smart-One IPTV.<br><br>
+
+Per garantire prestazioni ottimali, utilizza l'app consigliata per il tuo dispositivo:<br>
+
+★ iPhone: utilizza l'app Mega IPTV e seleziona "Xtream Codes API"<br>
+★ Telefono Android: utilizza IPTV Extreme<br>
+★ Android TV: utilizza Tivimate<br>
+★ Smart TV: utilizza Smart-One IPTV<br>
+★ Firestick: utilizza Tivimate<br><br>
+
+Per guardare su un browser per PC, visita:<br>
+http://webtv.iptvsmarters.com/
